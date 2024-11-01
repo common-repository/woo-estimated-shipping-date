@@ -1,0 +1,41 @@
+v4.2.0 -> Oct 18, 2020
+------------------------
+-   **Feat*** Add shipping date range option.
+
+v4.1.1 -> Oct 18, 2020
+------------------------
+-   **Fix*** Shipping date calculation.
+
+v4.1.0 -> Oct 11, 2020
+------------------------
+-   **Fix*** Add option to exclude weekend from Shipping date calculation.
+-   **Fix*** Shipping date message border is broken if the text is long.
+
+v4.0.6 -> July 04, 2020
+------------------------
+-   **Fix*** Shipping date is recalculated even after an order is placed
+
+v4.0.1 -> June 12, 2020
+------------------------
+-   **Feat*** Allow adding shipping date for all the product at once
+-   **Tweak*** Rewrite the whole plugin
+
+v3.0.7 -> June 12, 2020
+------------------------
+-   **Tweak*** Rename appsero-client to appsero
+
+v3.0.7 -> June 12, 2020
+------------------------
+-   **Fix*** Fatal error due to Appsero file not found
+
+v3.0.6 -> June 11, 2020
+------------------------
+-   **Fix*** If shipping date or shipping date message is not inserted, use the default settings
+
+v3.0.4 -> Aug 13, 2019
+------------------------
+-   **Fix*** Remove default shipping date settings value
+
+v3.0.3 -> Oct 12, 2018
+------------------------
+-   **Fix*** date format internalization
